@@ -1,4 +1,4 @@
-## HAW IS COMPILE_C ?
+###  What is C ?
 This is a just simple outil to allow to compile C script, typing c "filename.c"
 
 ##### HOW TO INSTALL IT USING BREW ?
