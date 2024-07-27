@@ -2,6 +2,8 @@
 This is a just simple outil to allow to compile C script, typing c "filename.c"
 
 ## HOW TO INSTALL IT USING BREW ?
+
+```bash
 run brew install c
 
 ## EXAMPLE CASE 
